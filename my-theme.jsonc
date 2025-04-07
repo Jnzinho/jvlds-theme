@@ -1,0 +1,8 @@
+{
+  "name": "JVLDS Theme",
+  "colors": {
+    "editor.background": "#1E1E1E",
+    "editor.foreground": "#CCCCCC",
+    "editor.selectionBackground": "#2A2A2A"
+  }
+}

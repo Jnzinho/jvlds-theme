@@ -1,0 +1,21 @@
+{
+  "name": "jvlds-theme",
+  "displayName": "jvlds-theme",
+  "description": "The JVLDS Pastel Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JVLDS Pastel Theme",
+        "uiTheme": "vs",
+        "path": "./themes/JVLDS Pastel Theme-color-theme.json"
+      }
+    ]
+  }
+}
