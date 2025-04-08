@@ -117,7 +117,7 @@
 			"scope": "entity.name.tag",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#65a99c"
+				"foreground": "#8abeb4"
 			}
 		},
 		{
