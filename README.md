@@ -6,6 +6,8 @@ A soothing, light pastel color theme for your code editor that makes programming
 
 ![image](./image.png)
 
+![image](https://github.com/user-attachments/assets/b92044e3-1082-4acf-a1ad-603dd793cdd3)
+
 ## 📦 Installation
 
 1. Open the Extensions sidebar in VS Code
@@ -22,7 +24,7 @@ A soothing, light pastel color theme for your code editor that makes programming
 ## 💝 Recommended Font Pairings
 
 - Geist Mono
-- MonaLisa
+- MonoLisa
 - JetBrains Mono
 - Operator Mono
 - FantasqueSans Mono
