@@ -9,9 +9,9 @@ A soothing, light pastel color theme for your code editor that makes programming
 ## 📦 Installation
 
 1. Open the Extensions sidebar in VS Code
-2. Search for "Cozy Pastels"
+2. Search for "jvlds-theme"
 3. Click Install
-4. Select "Cozy Pastels" from File → Preferences → Color Theme
+4. Select "JVLDS Pastel Theme" from File → Preferences → Color Theme
 
 ## 🌟 Features
 
@@ -21,10 +21,11 @@ A soothing, light pastel color theme for your code editor that makes programming
 
 ## 💝 Recommended Font Pairings
 
-- Fira Code
-- Comic Code
+- Geist Mono
+- MonaLisa
 - JetBrains Mono
-- Cascadia Code
+- Operator Mono
+- FantasqueSans Mono
 
 ## 🤝 Contributing
 
