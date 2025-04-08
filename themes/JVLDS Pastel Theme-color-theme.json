@@ -256,7 +256,9 @@
 		"scrollbarSlider.background": "#e3dfd7cc",
 		"scrollbarSlider.hoverBackground": "#d8d4cccc",
 		"scrollbarSlider.activeBackground": "#d8d4cc",
-		"progressBar.background": "#e4899a"
+		"progressBar.background": "#e4899a",
+		"editorGroupHeader.tabsBackground": "#f8f6f2",
+		"editorGroupHeader.noTabsBackground": "#f8f6f2"
 	},
 	"name": "JVLDS Pastel Theme"
 }

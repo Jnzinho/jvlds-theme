@@ -18,14 +18,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "JVLDS Pastel Theme",
+        "label": "JVLDS Theme",
         "uiTheme": "vs",
         "path": "./themes/JVLDS Pastel Theme-color-theme.json"
       },
       {
-        "label": "JVLDS Pastel Theme Material",
+        "label": "JVLDS Theme Material",
         "uiTheme": "vs",
         "path": "./themes/JVLDS Pastel Theme Material-color-theme.json"
+      },
+      {
+        "label": "JVLDS Theme Material Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JVLDS Pastel Theme Dark-color-theme.json"
       }
     ]
   }
