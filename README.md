@@ -1,6 +1,6 @@
 # 🌸 JVLDS Theme
 
-A soothing, light pastel color theme for your code editor that makes programming feel like a warm cup of tea on a sunny morning.
+Escape into jvlds, our pastel theme, now with a dark mode. Like coding in a field of wildflowers under a gentle sun, or watching fireflies dance in a twilight meadow, jvlds brings tranquility to your screen, day or night.
 
 ## ✨ Preview
 
