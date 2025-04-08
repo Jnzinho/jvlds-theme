@@ -3,9 +3,15 @@
   "displayName": "jvlds-theme",
   "description": "The JVLDS Pastel Theme",
   "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.99.0"
+  "publisher": "JVLDS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JVLDS/jvlds-theme.git"
   },
+  "engines": {
+    "vscode": "^1.9.0"
+  },
+  "icon": "./icon.png",
   "categories": [
     "Themes"
   ],

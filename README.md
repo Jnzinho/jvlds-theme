@@ -1,16 +1,46 @@
-# jvlds-theme README
+# 🌸 JVLDS Theme
 
-## Working with Markdown
+A soothing, light pastel color theme for your code editor that makes programming feel like a warm cup of tea on a sunny morning.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## ✨ Preview
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![image](./image.png)
 
-## For more information
+## 📦 Installation
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Open the Extensions sidebar in VS Code
+2. Search for "Cozy Pastels"
+3. Click Install
+4. Select "Cozy Pastels" from File → Preferences → Color Theme
 
-**Enjoy!**
+## 🌟 Features
+
+- Carefully chosen pastel colors that are easy on the eyes
+- Designed for long coding sessions in bright environments
+- Supports multiple languages
+
+## 💝 Recommended Font Pairings
+
+- Fira Code
+- Comic Code
+- JetBrains Mono
+- Cascadia Code
+
+## 🤝 Contributing
+
+Found a bug or want to suggest improvements? Feel free to:
+- Open an issue
+- Submit a pull request
+- Share your feedback
+
+## 📄 License
+
+MIT License - Feel free to use and modify this theme for your personal or professional projects!
+
+## 🙏 Credits
+
+Created with love by the jvlds team
+
+---
+
+Enjoy coding :)
