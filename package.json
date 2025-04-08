@@ -30,7 +30,7 @@
       {
         "label": "JVLDS Theme Material Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/JVLDS Pastel Theme Dark-color-theme.json"
+        "path": "./themes/JVLDS Pastel Theme Material Dark-color-theme.json"
       }
     ]
   }
