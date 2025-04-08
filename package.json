@@ -2,7 +2,7 @@
   "name": "jvlds-theme",
   "displayName": "jvlds-theme",
   "description": "The JVLDS Pastel Theme",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "JVLDS",
   "repository": {
     "type": "git",
@@ -16,21 +16,26 @@
     "Themes"
   ],
   "contributes": {
-    "themes": [
-      {
-        "label": "JVLDS Theme",
+      "themes": [
+        {
+        "label": "jvlds - windflower",
         "uiTheme": "vs",
-        "path": "./themes/JVLDS Pastel Theme-color-theme.json"
+        "path": "./themes/windflower-color-theme.json"
       },
       {
-        "label": "JVLDS Theme Material",
+        "label": "jvlds - windflower flat",
         "uiTheme": "vs",
-        "path": "./themes/JVLDS Pastel Theme Material-color-theme.json"
+        "path": "./themes/windflower-flat-color-theme.json"
       },
       {
-        "label": "JVLDS Theme Material Dark",
+        "label": "jvlds - twilight",
         "uiTheme": "vs-dark",
-        "path": "./themes/JVLDS Pastel Theme Material Dark-color-theme.json"
+        "path": "./themes/twilight-color-theme.json"
+      },
+      {
+        "label": "jvlds - twilight flat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/twilight-flat-color-theme.json"
       }
     ]
   }

@@ -53,7 +53,6 @@
 			"name": "Variable",
 			"scope": "variable",
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#463d56"
 			}
 		},
@@ -92,7 +91,6 @@
 			"name": "Inherited class",
 			"scope": "entity.other.inherited-class",
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#65a99c"
 			}
 		},
@@ -150,7 +148,6 @@
 				"meta.tag.attributes meta.embedded.expression variable.other.object"
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#65a99c"
 			}
 		},
