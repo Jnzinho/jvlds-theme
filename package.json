@@ -2,7 +2,7 @@
   "name": "jvlds-theme",
   "displayName": "jvlds-theme",
   "description": "The JVLDS Pastel Theme",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "publisher": "JVLDS",
   "repository": {
     "type": "git",
@@ -21,6 +21,11 @@
         "label": "JVLDS Pastel Theme",
         "uiTheme": "vs",
         "path": "./themes/JVLDS Pastel Theme-color-theme.json"
+      },
+      {
+        "label": "JVLDS Pastel Theme Material",
+        "uiTheme": "vs",
+        "path": "./themes/JVLDS Pastel Theme Material-color-theme.json"
       }
     ]
   }
