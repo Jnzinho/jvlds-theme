@@ -2,11 +2,11 @@
   "name": "jvlds-theme",
   "displayName": "Devine Theme",
   "description": "A delightful VS Code theme featuring two variants - Apollo (light) and Artemis (dark). Each comes in regular and flat styles, with a carefully curated pastel color palette that's easy on the eyes while maintaining excellent readability. Perfect for long and fun coding sessions.",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "publisher": "JVLDS",
   "repository": {
     "type": "git",
-    "url": "https://github.com/devine-studio/devine-theme.git"
+    "url": "https://github.com/JVLDS/jvlds-theme.git"
   },
   "engines": {
     "vscode": "^1.9.0"
