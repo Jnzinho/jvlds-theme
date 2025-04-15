@@ -98,7 +98,6 @@
 			"name": "Function name",
 			"scope": "entity.name.function",
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#e4899a"
 			}
 		},
@@ -257,5 +256,5 @@
 		"editorGroupHeader.tabsBackground": "#f8f6f2",
 		"editorGroupHeader.noTabsBackground": "#f8f6f2"
 	},
-	"name": "JVLDS Pastel Theme"
+	"name": "Devine Apollo"
 }

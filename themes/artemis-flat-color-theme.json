@@ -98,7 +98,6 @@
       "name": "Function name",
       "scope": "entity.name.function",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#f7b3c3"
       }
     },
@@ -265,21 +264,21 @@
     "editorWhitespace.foreground": "#3d3647",
     "editor.lineHighlightBackground": "#332e3f",
     "editor.selectionBackground": "#3d3647",
-    "activityBar.background": "#221e2c",
+    "activityBar.background": "#282433",
     "activityBar.foreground": "#e8d7f5",
     "activityBarBadge.background": "#f7b3c3",
     "activityBarBadge.foreground": "#282433",
-    "sideBar.background": "#221e2c",
+    "sideBar.background": "#282433",
     "sideBar.foreground": "#e8d7f5",
     "sideBarTitle.foreground": "#e8d7f5",
-    "titleBar.activeBackground": "#221e2c",
+    "titleBar.activeBackground": "#282433",
     "titleBar.activeForeground": "#e8d7f5",
-    "statusBar.background": "#221e2c",
+    "statusBar.background": "#282433",
     "statusBar.foreground": "#e8d7f5",
-    "statusBar.noFolderBackground": "#221e2c",
+    "statusBar.noFolderBackground": "#282433",
     "tab.activeBackground": "#282433",
     "tab.activeForeground": "#e8d7f5",
-    "tab.inactiveBackground": "#221e2c",
+    "tab.inactiveBackground": "#282433",
     "tab.inactiveForeground": "#8b8198",
     "tab.activeBorderTop": "#f7b3c3",
     "list.activeSelectionBackground": "#3d3647",
@@ -298,8 +297,8 @@
     "scrollbarSlider.hoverBackground": "#463d56cc",
     "scrollbarSlider.activeBackground": "#463d56",
     "progressBar.background": "#f7b3c3",
-    "editorGroupHeader.tabsBackground": "#221e2c",
-    "editorGroupHeader.noTabsBackground": "#221e2c",
+    "editorGroupHeader.tabsBackground": "#282433",
+    "editorGroupHeader.noTabsBackground": "#282433",
     "editorHoverWidget.background": "#332e3f",
     "editorHoverWidget.border": "#3d3647",
     "editorHoverWidget.foreground": "#e8d7f5",
@@ -355,5 +354,5 @@
     "sideBarSectionHeader.foreground": "#e8d7f5",
     "sideBarSectionHeader.border": "#3d3647"
   },
-  "name": "jvlds twilight"
+  "name": "Devine Artemis Flat"
 }

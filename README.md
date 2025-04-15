@@ -1,6 +1,6 @@
-# 🌸 JVLDS Theme
+# 🌸 Devine Theme
 
-Escape into jvlds, our pastel theme, now with a dark mode. Like coding in a field of wildflowers under a gentle sun, or watching fireflies dance in a twilight meadow, jvlds brings tranquility to your screen, day or night.
+Escape into devine, our pastel theme, now with a dark mode. Like coding in a field of wildflowers under a gentle sun, or watching fireflies dance in a twilight meadow, Apollo and Artemis brings tranquility to your screen, day or night.
 
 ## ✨ Preview
 
@@ -11,9 +11,9 @@ Escape into jvlds, our pastel theme, now with a dark mode. Like coding in a fiel
 ## 📦 Installation
 
 1. Open the Extensions sidebar in VS Code
-2. Search for "jvlds-theme"
+2. Search for "devine theme"
 3. Click Install
-4. Select "JVLDS Pastel Theme" from File → Preferences → Color Theme
+4. Select any of the devine theme variations from File → Preferences → Color Theme
 
 ## 🌟 Features
 
@@ -42,7 +42,7 @@ MIT License - Feel free to use and modify this theme for your personal or profes
 
 ## 🙏 Credits
 
-Created with love by the jvlds team
+Created with love by the devine team
 
 ---
 

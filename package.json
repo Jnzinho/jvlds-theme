@@ -1,12 +1,12 @@
 {
   "name": "jvlds-theme",
-  "displayName": "jvlds-theme",
-  "description": "The JVLDS Pastel Theme",
-  "version": "0.0.6",
+  "displayName": "Devine Theme",
+  "description": "A delightful VS Code theme featuring two variants - Apollo (light) and Artemis (dark). Each comes in regular and flat styles, with a carefully curated pastel color palette that's easy on the eyes while maintaining excellent readability. Perfect for long and fun coding sessions.",
+  "version": "0.0.7",
   "publisher": "JVLDS",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JVLDS/jvlds-theme.git"
+    "url": "https://github.com/devine-studio/devine-theme.git"
   },
   "engines": {
     "vscode": "^1.9.0"
@@ -18,24 +18,24 @@
   "contributes": {
       "themes": [
         {
-        "label": "jvlds - windflower",
+        "label": "Devine Apollo",
         "uiTheme": "vs",
-        "path": "./themes/windflower-color-theme.json"
+        "path": "./themes/apollo-color-theme.json"
       },
       {
-        "label": "jvlds - windflower flat",
+        "label": "Devine Apollo Flat",
         "uiTheme": "vs",
-        "path": "./themes/windflower-flat-color-theme.json"
+        "path": "./themes/apollo-flat-color-theme.json"
       },
       {
-        "label": "jvlds - twilight",
+        "label": "Devine Artemis",
         "uiTheme": "vs-dark",
-        "path": "./themes/twilight-color-theme.json"
+        "path": "./themes/artemis-color-theme.json"
       },
       {
-        "label": "jvlds - twilight flat",
+        "label": "Devine Artemis Flat",
         "uiTheme": "vs-dark",
-        "path": "./themes/twilight-flat-color-theme.json"
+        "path": "./themes/artemis-flat-color-theme.json"
       }
     ]
   }
