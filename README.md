@@ -1,4 +1,4 @@
-# 🌸 Devine Theme
+# 🌸 JVLDS/Devine Theme
 
 Escape into devine, our pastel theme, now with a dark mode. Like coding in a field of wildflowers under a gentle sun, or watching fireflies dance in a twilight meadow, Apollo and Artemis brings tranquility to your screen, day or night.
 
